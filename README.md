@@ -18,6 +18,7 @@ DAY 1 :-
                     If minister can arrest with PM permission
                     if mps they can be arrested without anyones permission.
     In Short, If the MP is not PM then he can be arrested by commisoner , If he is minister then can be arrested with PMs permisison.
+    
   Task 2: 
     suppose you are making a program for a very famous IoT Inverter company,
     company have multiple inverters with multiple business logic,
