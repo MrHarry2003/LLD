@@ -88,6 +88,8 @@ DAY 3 :-
     Find out hottest guy or girl that received max number of bricks.
     Find out the guy or girl that don't get any dedication.
     You can input 10 users from command line. Whole project should be able to run through command line.
+
+    
   Task 2 :
     As described task is:
     You have to create a program for ATM Which would have certain defined denominations of notes : 100 ,200, 500, and 2000 INR.
